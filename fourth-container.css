@@ -1,0 +1,76 @@
+.fourth-container{
+    margin-bottom: 15rem;
+}
+.rectangle-box{
+    height: 20rem;
+    width: 40rem;
+    border-radius: 20px;
+    background-image: linear-gradient(#A71D31,#30060c);
+}
+.rectangle-boxes{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.fifth-container{
+    background-color: whitesmoke;
+    padding: 13rem;
+    display: flex;
+    justify-content: space-around;
+
+}
+.icons{
+    height: fit-content;
+    width: auto;
+    padding: 5rem;
+    border: 15px solid goldenrod;
+    border-radius: 50%;
+}
+.boxer{
+    display: flex;
+    height: auto;
+    width: auto;
+}
+.text2{
+    font-size: 3rem;
+    margin-top: 12rem;
+}
+.boxers{
+    height: 50rem;
+    width: 45rem;
+    padding-bottom: 5rem;
+    padding-right: 5rem;
+    padding-left: 5rem;
+    box-shadow: 5px 10px 5px 10px #E8E8E8E8;
+}
+/* .icons{
+    height: 100rem;
+    width:auto ;
+    border-radius: 50%;
+    border: 12px solix greenyellow;
+} */
+.beek{
+    margin: -90px;
+}
+.beek1{
+    margin-top: 6rem;
+
+}
+
+.sixth-container{
+    font-style:inherit;
+    padding: 3rem;
+    padding-right: 5d0rem;
+    height: auto;
+    background-color: #f3a10a;
+    display: flex;
+    justify-content: right;
+    margin-bottom: 15rem;
+}
+
+.button{
+    border-radius: 50px;
+    border: 2px solid red;
+    color: red;
+    padding: 2rem;
+}

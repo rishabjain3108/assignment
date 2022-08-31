@@ -1,0 +1,62 @@
+.eighth-container{
+    background-color: #f5f5f5;
+    /* display: flex;
+    justify-content: space-between; */
+    /* justify-content: space-evenly; */
+    padding: 5rem;
+    margin: 20rem;
+}
+.right-flex-box{
+     box-shadow: 5px 10px 5px 10px #E8E8E8E8;
+    /* box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px; */
+    padding: 5rem;
+}
+.flex-box{
+    display: flex;
+    justify-content: space-evenly;
+}
+.bottomimage{
+    height: 80rem;
+    width: auto;
+}
+
+.tm{
+    margin-bottom: 5rem;
+}
+.review-box{
+    padding: 1rem;
+    height: 30rem;
+    width: 60rem;
+    box-shadow: 5px 10px 5px 10px #E8E8E8E8;
+}
+.text3{
+    font-size: 3rem;
+}
+.review{
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: 10rem;
+}
+.oyebusy{
+    display: flex;
+    justify-content: center;
+}
+.oyebusylogo{
+    height: 50rem;
+    width: 50rem;
+}
+.temp{
+    margin-top: 18rem;
+}
+.footer{
+    background-color: grey;
+    color: white;
+    padding: 10rem;
+}
+.icare{
+    display:flex;
+    justify-content: space-evenly;
+}
+.econ{
+    font-size: 8rem ;
+}

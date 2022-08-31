@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+.navbar{
+    padding-top: 4rem;
+    display: flex;
+    justify-content: space-evenly;
+    background-color: whitesmoke;
+
+}
+.oyebusylogotop{
+    height: 10rem;
+    width: 10rem;
+}
+.bbtn{
+padding: 0.5rem;
+border-radius: 20px;
+}
+.left-nav{
+    display: flex;
+    justify-content: space-between;
+}
+.top{
+    font-size: 5rem;
+}
+.right-nav{
+    display: flex;
+    gap: 3rem;
+    justify-content: space-between;
+}
+.right-nav ul{
+    display: flex;
+    margin-left: 1rem;
+    margin-right: 1remm;
+}
+.right-nav ul li{
+    list-style: none;
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+.btn{
+    border: 3px solid black;
+    /* padding: 1rem; */
+}
+
+

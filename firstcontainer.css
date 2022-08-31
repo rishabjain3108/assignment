@@ -1,0 +1,42 @@
+.first-container{
+    margin-top:3rem;
+    overflow: scroll;
+}
+.text1{
+    font-size: 5rem;
+    margin-bottom: 5rem;
+}
+.first-images{
+    display: flex;
+    justify-content:space-evenly;
+}
+.box
+{
+    height: 40rem;
+    width: 40rem;
+    box-shadow: 5px 10px 5px 10px #E8E8E8E8;
+}
+
+.second-container{
+    margin-top: 15rem;
+    margin-bottom: 15rem;
+}
+.third-container{
+    background-color: #E8E8E8E8;
+    height: 45rem;
+    width: 200rem;
+    display: flex;
+    margin: auto;
+    justify-content: space-around;
+    margin-bottom: 15rem;
+}
+.list{
+    list-style:none;
+    /* background-color: black; */
+    color: black;
+}
+.min-box{
+    display: flex;
+width: 100%;
+    justify-content: space-evenly;
+}
