@@ -1,33 +1,29 @@
-*{
-    margin: 0;
-    padding: 0;
-    
-}
+
 .navbar{
-    padding-top: 4rem;
+    padding-top: 3vh;
     display: flex;
     justify-content: space-evenly;
     background-color: whitesmoke;
 
 }
 .oyebusylogotop{
-    height: 10rem;
-    width: 10rem;
+    height: 4vh;
+    width: 2vw;
 }
 .bbtn{
-padding: 0.5rem;
-border-radius: 20px;
+padding: 0.1vh;
+border-radius: 0.5vh;
 }
 .left-nav{
     display: flex;
     justify-content: space-between;
 }
 .top{
-    font-size: 5rem;
+    font-size: 1.5vw;
 }
 .right-nav{
     display: flex;
-    gap: 3rem;
+    gap: 1vh;
     justify-content: space-between;
 }
 .right-nav ul{
