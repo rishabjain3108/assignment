@@ -1,44 +1,19 @@
 
-.navbar{
-    padding-top: 3vh;
+.navbar {
     display: flex;
     justify-content: space-evenly;
-    background-color: whitesmoke;
-
-}
-.oyebusylogotop{
-    height: 4vh;
-    width: 2vw;
-}
-.bbtn{
-padding: 0.1vh;
-border-radius: 0.5vh;
-}
-.left-nav{
-    display: flex;
-    justify-content: space-between;
-}
-.top{
-    font-size: 1.5vw;
-}
-.right-nav{
-    display: flex;
-    gap: 1vh;
-    justify-content: space-between;
-}
-.right-nav ul{
-    display: flex;
-    margin-left: 1rem;
-    margin-right: 1remm;
-}
-.right-nav ul li{
-    list-style: none;
-    margin-left: 1rem;
-    margin-right: 1rem;
-}
-.btn{
-    border: 3px solid black;
-    /* padding: 1rem; */
+    padding-top: 0.4rem;
 }
 
+.icon {
+    font-size: 1rem;
+}
+.navbar {
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 0.4rem;
+}
 
+.icon {
+    font-size: 1rem;
+}

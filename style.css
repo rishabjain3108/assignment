@@ -17,9 +17,16 @@
     width: 40vw;
     /* border: 0px; */
     background-image: url("images1/.png");
-    animation: slide 15s infinite ease-in;
+    animation: slide 20s infinite ease-in-out;
     background-size: 100% 100%;
 
+}
+.rectangle-boxes{
+    display: grid;
+    grid-template-columns: auto auto;
+    grid-template-rows: auto auto;
+    justify-content: center;
+    /* justify-content: space-evenly; */
 }
     /* width: 50%; */
 @keyframes slide{
